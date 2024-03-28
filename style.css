@@ -48,7 +48,9 @@ h1{
     background-color: rgba(0, 0, 0, 0.733);
     color: aliceblue;
     font-size: 2em;
+
     cursor: pointer;
+
 }
 
 .botao:hover{
